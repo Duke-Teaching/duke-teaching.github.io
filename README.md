@@ -3,7 +3,9 @@ Website for HOUSECS 59-03 (Web Development and Society)
 
 ### Instructors
 Shrey Gupta, Student Instructor, Duke University, shrey.gupta@duke.edu
+
 Ben Yang, Student Instructor, Duke University, jichu.yang@duke.edu
+
 Prof. Salman Azhar, Faculty Sponsor, Department of Computer Science, azhar@cs.duke.edu
 
 ### Bulletin Description
