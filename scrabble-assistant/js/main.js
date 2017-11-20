@@ -16,7 +16,6 @@ function main() {
 	$.get(baseURL+"static/words.txt", function(data) {
 		words = data.split("\n");
 	});
-	$.post(baseURL+"static/test.txt", "hi");
 }
 main();
 
